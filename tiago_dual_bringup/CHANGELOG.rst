@@ -2,8 +2,8 @@
 Changelog for package tiago_dual_bringup
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+2.0.4 (2024-04-10)
+------------------
 * Add exclude_from_planning for robotiq grippers
 * Contributors: David ter Kuile
 
