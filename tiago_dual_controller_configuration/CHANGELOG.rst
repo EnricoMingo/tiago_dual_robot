@@ -2,6 +2,11 @@
 Changelog for package tiago_dual_controller_configuration
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* Add ros2controlcli dependency
+* Contributors: Noel Jimenez
+
 2.0.3 (2024-03-06)
 ------------------
 
