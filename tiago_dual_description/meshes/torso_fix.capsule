@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<robot name="/home/enrico/catkin_ws/src/tiago_dual_robot/tiago_dual_description/meshes/torso/torso_fix.stl" version="1.0">
+  <link name="1.00000_1.00000_1.00000">
+    <collision>
+      <origin xyz="0.0770808 -1.464161e-15 0.02921795" rpy="3.1415926535896133 1.4930574393027025 3.1415926535895986"/>
+      <geometry>
+        <cylinder radius="0.139555" length="0.27767100694629604"/>
+      </geometry>
+    </collision>
+  </link>
+</robot>
